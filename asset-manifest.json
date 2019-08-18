@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/dost-heiswap/static/css/main.176e254c.chunk.css",
-    "main.js": "/dost-heiswap/static/js/main.90e48845.chunk.js",
-    "main.js.map": "/dost-heiswap/static/js/main.90e48845.chunk.js.map",
-    "runtime~main.js": "/dost-heiswap/static/js/runtime~main.f45d235b.js",
-    "runtime~main.js.map": "/dost-heiswap/static/js/runtime~main.f45d235b.js.map",
-    "static/css/2.266e55a5.chunk.css": "/dost-heiswap/static/css/2.266e55a5.chunk.css",
-    "static/js/2.d5be84d9.chunk.js": "/dost-heiswap/static/js/2.d5be84d9.chunk.js",
-    "static/js/2.d5be84d9.chunk.js.map": "/dost-heiswap/static/js/2.d5be84d9.chunk.js.map",
-    "index.html": "/dost-heiswap/index.html",
-    "precache-manifest.1afc1aaa00632dd521b75f7b5e33bdeb.js": "/dost-heiswap/precache-manifest.1afc1aaa00632dd521b75f7b5e33bdeb.js",
-    "service-worker.js": "/dost-heiswap/service-worker.js",
-    "static/css/2.266e55a5.chunk.css.map": "/dost-heiswap/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.176e254c.chunk.css.map": "/dost-heiswap/static/css/main.176e254c.chunk.css.map",
-    "static/media/dost.png": "/dost-heiswap/static/media/dost.5a0138c9.png",
-    "static/media/ost.jpg": "/dost-heiswap/static/media/ost.e1df1300.jpg",
-    "static/media/profileicon.png": "/dost-heiswap/static/media/profileicon.60568d49.png",
-    "static/media/settings.png": "/dost-heiswap/static/media/settings.466dd077.png"
+    "main.css": "/static/css/main.176e254c.chunk.css",
+    "main.js": "/static/js/main.8922a289.chunk.js",
+    "main.js.map": "/static/js/main.8922a289.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.266e55a5.chunk.css": "/static/css/2.266e55a5.chunk.css",
+    "static/js/2.4381ebd5.chunk.js": "/static/js/2.4381ebd5.chunk.js",
+    "static/js/2.4381ebd5.chunk.js.map": "/static/js/2.4381ebd5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.6e9a39a86fa4c7754b76978312631ea1.js": "/precache-manifest.6e9a39a86fa4c7754b76978312631ea1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.176e254c.chunk.css.map": "/static/css/main.176e254c.chunk.css.map",
+    "static/media/dost.png": "/static/media/dost.5a0138c9.png",
+    "static/media/ost.jpg": "/static/media/ost.e1df1300.jpg",
+    "static/media/profileicon.png": "/static/media/profileicon.60568d49.png",
+    "static/media/settings.png": "/static/media/settings.466dd077.png"
   }
 }
